@@ -1,4 +1,4 @@
-# Hello World!
+# Compilador gcc
 
 Programa "Hello World!" en C, para compilarlo utilice el siguiente comando:
 
