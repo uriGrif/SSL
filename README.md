@@ -1,3 +1,3 @@
-# TP 0 - SSL
+# SSL
 
-Este es el repo del tp0 de SSL, para empezar a usar las herramientas!
+Este es el repositorio personal de SSL de Uriel Grifman
