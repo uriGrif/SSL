@@ -1,6 +1,6 @@
-# Compilador gcc
+# Compilador Seleccionado: gcc version 12.2.0
 
-Programa "Hello World!" en C, para compilarlo utilice el siguiente comando:
+Para compilar al programa utilice el siguiente comando:
 
 ```bash
 gcc ./hello.c -std=c2x -pedantic-errors -o hello.exe
